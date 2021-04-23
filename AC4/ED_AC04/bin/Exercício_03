@@ -1,0 +1,3 @@
+Usaria um TAD Fila de prioridades usando heap, pois para inserir um dado time-stamp usaria o método insert() do TAD Fila de 
+Prioridades com heap adicionando o tempo como chave para ordenar os voos e usaria o método removeMin() para remover o evento 
+com menor time-stamp.
