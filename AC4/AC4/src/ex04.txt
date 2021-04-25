@@ -1,3 +1,0 @@
-Onde pode estar armazenado o elemento com a maior chave em um heap?
-
-R: Na raiz.
